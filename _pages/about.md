@@ -36,6 +36,7 @@ I have experience working with ROOT and C++ for waveform analysis, including bas
 Currently, I am working on PMT array readout systems and position reconstruction algorithms based on charge distribution in multi-channel detector configurations, motivated by applications in dark matter detection experiments.
 
 **Research Interests**
+
 - Dark matter direct detection
 - Liquid xenon detectors (LXe TPC)
 - PMT instrumentation and readout electronics
