@@ -114,6 +114,11 @@ ninja.data = [{
           description: "Organized and delivered a workshop on identifying and managing cycling-related knee injuries, integrating biomechanics with practical training guidance.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_cycling_injury_workshop/";
+            },},{id: "projects-first-cycling-race-at-jilin-university",
+          title: 'First Cycling Race at Jilin University',
+          description: "Organized the first campus-wide cycling race, including planning, safety management, and on-site execution.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cycling_race/";
             },},{id: "projects-flexible-pmt-base-design-for-next-generation-lxe-detectors",
           title: 'Flexible PMT Base Design for Next-generation LXe Detectors',
           description: "Designed a compact flexible PMT base integrating voltage division, signal readout, and mechanical adaptability for dense PMT arrays in future liquid xenon experiments.",
@@ -164,6 +169,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/old_9_project/";
+            },},{id: "projects-jilin-university-physics-academic-competition",
+          title: 'Jilin University Physics Academic Competition',
+          description: "Organized and led a university-wide physics competition, designing evaluation systems and coordinating judging processes.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/physics_competition/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
