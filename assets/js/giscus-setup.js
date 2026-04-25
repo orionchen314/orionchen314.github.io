@@ -19,10 +19,10 @@ function determineGiscusTheme() {
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
     "data-repo": "orionchen314/orionchen314.github.io",
-    "data-repo-id": "",
+    "data-repo-id": "R_kgDOSLo7qg",
     "data-category": "Comments",
     "data-category-id": "",
-    "data-mapping": "title",
+    "data-mapping": "pathname",
     "data-strict": "1",
     "data-reactions-enabled": "1",
     "data-emit-metadata": "0",
