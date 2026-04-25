@@ -6,7 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-
 Beyond academic research, my interests are not isolated activities but form a coherent system that shapes how I approach endurance, engineering, and problem solving. They can be roughly grouped into three domains: **physical discipline**, **intellectual exploration**, and **practical engineering**.
 
 ---
@@ -24,9 +23,10 @@ I am trained in both road cycling and mountain biking, and I hold a **National L
 ### Fitness Training
 
 I follow a structured **push–pull–legs strength training program**, with emphasis on:
-- Muscle hypertrophy  
-- Lower-body strength  
-- Injury-aware progression  
+
+- Muscle hypertrophy
+- Lower-body strength
+- Injury-aware progression
 
 Due to a previous knee surgery, I place strong emphasis on **stability, recovery, and load control**, which has led me to develop a systematic approach to injury prevention and rehabilitation.
 
@@ -45,9 +45,10 @@ I organized and delivered a lecture:
 **“How to Identify and Manage Knee Injuries in Cycling”**
 
 This workshop focused on:
-- Mechanisms of common cycling injuries  
-- Self-assessment methods  
-- Practical response and recovery strategies  
+
+- Mechanisms of common cycling injuries
+- Self-assessment methods
+- Practical response and recovery strategies
 
 In addition, I have served in a **team medical support role** within university cycling clubs, providing guidance on injury prevention and on-site assessment during training.
 
@@ -60,14 +61,16 @@ This reflects a transition from **individual practice → systematic understandi
 ### Reading
 
 My reading interests span:
-- Literature  
-- Philosophy  
-- Scientific writing  
+
+- Literature
+- Philosophy
+- Scientific writing
 
 I am particularly interested in themes involving:
-- Human cognition  
-- Existential questions  
-- The interaction between science and society  
+
+- Human cognition
+- Existential questions
+- The interaction between science and society
 
 Reading serves as a counterbalance to technical work, helping broaden perspective and abstraction ability.
 
@@ -78,9 +81,10 @@ Reading serves as a counterbalance to technical work, helping broaden perspectiv
 ### Technology and Coding
 
 I actively explore:
-- C++ / Python  
-- ROOT-based data analysis  
-- Data processing pipelines  
+
+- C++ / Python
+- ROOT-based data analysis
+- Data processing pipelines
 
 These are often applied to experimental physics problems, reinforcing a workflow of:
 **data → modeling → validation → iteration**
@@ -88,9 +92,10 @@ These are often applied to experimental physics problems, reinforcing a workflow
 ### Experimental and Engineering Projects
 
 I have a strong preference for **hands-on system building**, including:
-- Detector instrumentation  
-- Electronics systems  
-- Experimental setups  
+
+- Detector instrumentation
+- Electronics systems
+- Experimental setups
 
 I focus on translating theoretical ideas into working systems and refining them through iterative testing.
 
@@ -101,9 +106,10 @@ I focus on translating theoretical ideas into working systems and refining them 
 ### Travel
 
 I enjoy independent travel with an emphasis on:
-- Exposure to diverse environments  
-- Adaptability in unfamiliar conditions  
-- Observation-driven learning  
+
+- Exposure to diverse environments
+- Adaptability in unfamiliar conditions
+- Observation-driven learning
 
 Travel complements both engineering and scientific thinking by forcing real-time decision making under uncertainty.
 
@@ -113,11 +119,11 @@ Travel complements both engineering and scientific thinking by forcing real-time
 
 These activities are not independent hobbies but form an integrated structure:
 
-- **Cycling and training** build discipline and physical resilience  
-- **Injury analysis and teaching** extend practice into structured knowledge  
-- **Reading and coding** strengthen abstract and analytical thinking  
-- **Engineering projects** connect theory with real-world implementation  
-- **Travel** enhances adaptability and observation  
+- **Cycling and training** build discipline and physical resilience
+- **Injury analysis and teaching** extend practice into structured knowledge
+- **Reading and coding** strengthen abstract and analytical thinking
+- **Engineering projects** connect theory with real-world implementation
+- **Travel** enhances adaptability and observation
 
 Together, they reinforce a consistent approach:  
 **systematic thinking applied across physical, intellectual, and technical domains**
