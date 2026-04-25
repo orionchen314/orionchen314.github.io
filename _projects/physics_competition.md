@@ -4,7 +4,7 @@ title: Jilin University Physics Academic Competition
 description: Organized and led a university-wide physics competition, designing evaluation systems and coordinating judging processes.
 img: /assets/img/projects/physics_competition.jpg
 importance: 7
-category: outreach
+category: draft
 ---
 
 This project involves the organization and execution of the **Jilin University Physics Academic Competition**, where I served as the **Chief Referee**.
