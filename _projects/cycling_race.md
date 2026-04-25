@@ -1,4 +1,5 @@
 ---
+layout: page
 title: First Cycling Race at Jilin University
 description: Organized the first campus-wide cycling race, including planning, safety management, and on-site execution.
 img: /assets/img/projects/cycling_race.jpg
