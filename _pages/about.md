@@ -38,10 +38,10 @@ Currently, I am working on PMT array readout systems and position reconstruction
 
 **Research Interests**
 
-- Dark matter direct detection
-- Liquid xenon detectors (LXe TPC)
-- PMT instrumentation and readout electronics
-- Waveform analysis and signal reconstruction
-- Detector response modeling and calibration
+- 🌌 Dark matter direct detection
+- ❄️ Liquid xenon detectors (LXe TPC)
+- 🔌 PMT instrumentation and readout electronics
+- 📈 Waveform analysis and signal reconstruction
+- 🧠 Detector response modeling and calibration
 
 For more details, please refer to my LinkedIn profile or GitHub projects.
