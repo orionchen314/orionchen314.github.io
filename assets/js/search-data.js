@@ -64,16 +64,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
-          title: 'Finalized PMT waveform analysis and charge reconstruction framework.',
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-mega-trophy-achieved-first-prize-in-china-undergraduate-physics-experiment-competition",
+          title: ':mega: :trophy: Achieved First Prize in China Undergraduate Physics Experiment Competition',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
+          title: 'Finalized PMT waveform analysis and charge reconstruction framework.',
           description: "",
           section: "News",},{id: "projects-pmt-readout-platform-for-a-pandax-inspired-array",
           title: 'PMT Readout Platform for a PandaX-inspired Array',
