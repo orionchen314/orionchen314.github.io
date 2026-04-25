@@ -14,7 +14,7 @@ Beyond academic research, my interests are not isolated activities but form a co
 
 ### Cycling
 
-![Road cycling](/assets/img/hobbies/road_cycling.jpg)
+![Road cycling](/hobbies/road_cycling.jpg)
 
 Cycling is my primary long-term commitment. I regularly engage in medium-to-long distance road cycling, focusing on endurance, pacing strategies, and performance optimization.
 
@@ -36,7 +36,7 @@ Due to a previous knee surgery, I place strong emphasis on **stability, recovery
 
 ### Injury Awareness & Teaching
 
-![Cycling injury workshop](/assets/img/hobbies/knee_injury_lecture.jpg)
+![Cycling injury workshop](/hobbies/knee_injury_lecture.jpg)
 
 My experience in sports naturally extended into injury analysis and community education.
 
