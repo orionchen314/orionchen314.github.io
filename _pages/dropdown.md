@@ -11,5 +11,4 @@ children:
 
   - title: blog
     permalink: /blog/
-
 ---
