@@ -28,4 +28,4 @@ I like exploring programming, data analysis, and technical tools beyond my resea
 
 ### Travel and Exploration
 
-I enjoy discovering new places, planning trips, and learning through direct experience of different environments and cultures.í
+I enjoy discovering new places, planning trips, and learning through direct experience of different environments and cultures.
