@@ -15,11 +15,11 @@ Beyond academic research, my interests are not isolated activities but form a co
 ### Cycling
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1rem;">
-  <img src="/assets/img/hobbies/cycling.jpg" alt="Road cycling" style="width: 38%; max-width: 320px; min-width: 220px; border-radius: 8px; object-fit: cover;">
   <div style="flex: 1;">
-    <p>Cycling is my primary long-term commitment. I regularly engage in medium-to-long distance road cycling, focusing on endurance, pacing strategies, and performance optimization.</p>
-    <p>I am trained in both road cycling and mountain biking, and I hold a <strong>National Level-2 Referee certification</strong> for cycling and triathlon events. This provides not only athletic experience but also a structured understanding of race systems, rules, and performance evaluation.</p>
+    <p>Cycling is my primary long-term commitment. I regularly engage in medium-to-long distance road cycling, focusingon endurance, pacing strategies, and performance optimization, and I hold a <strong>National Level-2 Referee certification</strong> for cycling and triathlon events. </p>
+    <p>This provides not only athletic experience but also a structured understandingof race systems,rules,and performance evaluation.I am an active road cyclist and regularly engage in medium-to-long distance rides. Cycling serves both as cardiovascular training and as a way to build long-term discipline. I am particularly interested in performance tracking, pacing strategies, and endurance optimization.</p>
   </div>
+  <img src="/assets/img/hobbies/cycling.jpeg" alt="Road cycling" style="width: 42%; max-width: 320px; min-width: 220px; border-radius: 8px; object-fit: cover;">
 </div>
 
 ### Fitness Training
@@ -60,52 +60,7 @@ This reflects a transition from **individual practice → systematic understandi
 
 ---
 
-## 3. Intellectual Exploration
-
-### Reading
-
-My reading interests span:
-
-- Literature
-- Philosophy
-- Scientific writing
-
-I am particularly interested in themes involving:
-
-- Human cognition
-- Existential questions
-- The interaction between science and society
-
-Reading serves as a counterbalance to technical work, helping broaden perspective and abstraction ability.
-
----
-
-## 4. Practical Engineering Mindset
-
-### Technology and Coding
-
-I actively explore:
-
-- C++ / Python
-- ROOT-based data analysis
-- Data processing pipelines
-
-These are often applied to experimental physics problems, reinforcing a workflow of:
-**data → modeling → validation → iteration**
-
-### Experimental and Engineering Projects
-
-I have a strong preference for **hands-on system building**, including:
-
-- Detector instrumentation
-- Electronics systems
-- Experimental setups
-
-I focus on translating theoretical ideas into working systems and refining them through iterative testing.
-
----
-
-## 5. Exploration and Adaptability
+## 3. Exploration and Adaptability
 
 ### Travel
 
@@ -125,8 +80,6 @@ These activities are not independent hobbies but form an integrated structure:
 
 - **Cycling and training** build discipline and physical resilience
 - **Injury analysis and teaching** extend practice into structured knowledge
-- **Reading and coding** strengthen abstract and analytical thinking
-- **Engineering projects** connect theory with real-world implementation
 - **Travel** enhances adaptability and observation
 
 Together, they reinforce a consistent approach:  
