@@ -64,15 +64,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-mega-trophy-achieved-first-prize-in-china-undergraduate-physics-experiment-competition",
+            },},{id: "news-mega-trophy-achieved-first-prize-in-china-undergraduate-physics-experiment-competition",
           title: ':mega: :trophy: Achieved First Prize in China Undergraduate Physics Experiment Competition',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
+            },},{id: "news-joined-pandax-4t-as-a-research-assistant",
+          title: 'Joined PandaX-4T as a Research Assistant.',
+          description: "",
+          section: "News",},{id: "news-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
           title: 'Finalized PMT waveform analysis and charge reconstruction framework.',
           description: "",
           section: "News",},{id: "projects-pmt-readout-platform-for-a-pandax-inspired-array",
@@ -175,42 +175,35 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%4F%72%69%6F%6E%63%68%65%6E%33%31%34@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://inspirehep.net/authors/3109706", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=QRPXZ3UAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/Orionchen314", "_blank");
         },
       },{
       id: 'light-theme',
