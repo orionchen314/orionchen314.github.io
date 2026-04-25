@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hobbies/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -433,8 +426,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-apr-2026-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
-          title: 'Apr 2026: Finalized PMT waveform analysis and charge reconstruction framework.',
+            },},{id: "news-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
+          title: 'Finalized PMT waveform analysis and charge reconstruction framework.',
           description: "",
           section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
