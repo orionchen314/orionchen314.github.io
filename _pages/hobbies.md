@@ -62,6 +62,21 @@ This reflects a transition from **individual practice → systematic understandi
 
 ## 3. Exploration and Adaptability
 
+### Amateur Radio (Ham Radio)
+
+I am also interested in **amateur radio (ham radio)**, which combines communication technology, practical electronics, and emergency-response awareness.
+
+This hobby connects closely with my broader interests in instrumentation and engineering, especially in areas such as:
+
+- Radio-frequency communication
+- Antenna systems
+- Signal propagation
+- Field operation and emergency communication
+
+For me, amateur radio is not only a communication hobby, but also a practical way to understand how electronic systems behave in real environments.
+
+My amateur radio callsign is **BG2FYS**.
+
 ### Travel
 
 I enjoy independent travel with an emphasis on:
@@ -80,6 +95,7 @@ These activities are not independent hobbies but form an integrated structure:
 
 - **Cycling and training** build discipline and physical resilience
 - **Injury analysis and teaching** extend practice into structured knowledge
+- **Amateur radio** strengthens practical understanding of communication systems
 - **Travel** enhances adaptability and observation
 
 Together, they reinforce a consistent approach:  
