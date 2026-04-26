@@ -10,8 +10,8 @@ fi
 echo "Running prettier..."
 npx prettier . --write
 
-echo "Checking git status..."
-git status
+#echo "Checking git status..."
+#git status
 
 echo "Adding files..."
 git add .
