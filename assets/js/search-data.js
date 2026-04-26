@@ -217,7 +217,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Orionchen314", "_blank");
+          window.open("https://www.linkedin.com/in/orionchen314", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0008-8703-4495", "_blank");
         },
       },{
       id: 'light-theme',
