@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+            },{id: "post-full-chain-diagnostics-of-a-1408-channel-tpc-readout-system",
+        
+          title: "Full-Chain Diagnostics of a 1408-Channel TPC Readout System",
+        
+        description: "Systematic debugging and channel-level fault localization across a large-scale TPC detector readout chain",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Checking-The-Full-Chain-of-Detectors-with-1408-Channels/";
+          
+        },
+      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -83,6 +94,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-mega-trophy-achieved-first-prize-in-china-undergraduate-physics-experiment-competition",
+          title: ':mega: :trophy: Achieved First Prize in China Undergraduate Physics Experiment Competition',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/tdli_check/";
             },},{id: "news-joined-pandax-4t-as-a-research-assistant",
           title: 'Joined PandaX-4T as a Research Assistant.',
           description: "",
