@@ -1,10 +1,9 @@
 ---
-layout: post
-title: "Full-Chain Diagnostics of a 1408-Channel TPC Readout System"
-date: 2026-04-26
-description: Systematic debugging and channel-level fault localization across a large-scale TPC detector readout chain
-tags: [TPC, detector, DAQ, debugging, electronics]
-giscus_comments: true
+layout: page
+title: Full-Chain Diagnostics of a 1408-Channel TPC Readout System
+description: Led three students in channel-level diagnostics and built a database for shared measurements and fault tracking.
+importance: 2
+category: research
 ---
 
 ## Background
@@ -82,3 +81,5 @@ This supported consistent measurement records, shared fault tracking, and cross-
 ## Summary
 
 This work provides a scalable framework for debugging large-channel-count detector systems, combining structured diagnostics with data integration.
+
+[Research note]({% post_url 2026-04-26-Checking-The-Full-Chain-of- Detectors-with-1408-Channels %})

@@ -1,14 +1,13 @@
 cv:
   name: Peiyuan Chen
   label: Physics Undergraduate Student
-  email: Chenpy9920@mails.jlu.edu.cn
+  email: orionchen314@gmail.com
   location: Shanghai, China
-  summary: Undergraduate physics student focusing on particle detection, PMT instrumentation, and data analysis for large-scale experiments such as PandaX.
-
+  summary: Undergraduate physics student focusing on particle detection, PMT instrumentation, and data analysis for large-scale
+    experiments such as PandaX.
   social_networks:
     - network: LinkedIn
       username: orionchen314
-
   sections:
     Education:
       - institution: Jilin University
@@ -17,112 +16,105 @@ cv:
         studyType: Bachelor of Science
         start_date: 2020-09
         end_date: Present
-        highlights:
-          - Double First-Class University (Project 985/211)
-
       - institution: Georgia Institute of Technology
         location: Atlanta, USA
         area: Physics
         studyType: Visiting Honor Student
         start_date: 2024-01
         end_date: 2024-05
-
-      - institution: Shanghai Jiao Tong University
-        location: Shanghai, China
-        area: Physics (TDLI & PandaX Group)
-        studyType: Research Assistant
-        start_date: 2024-06
-        end_date: Present
-        highlights:
-          - PMT characterization and detector readout system development
-          - Waveform analysis and signal processing for detector calibration
-
     Experience:
       - company: PandaX Collaboration, Shanghai Jiao Tong University
         position: Research Assistant
         location: Shanghai, China
-        start_date: 2024-10
+        start_date: 2024-06
         end_date: Present
         highlights:
-          - Designed and implemented a 55-PMT readout system
-          - Developed position reconstruction algorithms (RoG, LRF, CNN)
-          - Achieved position resolution of ~0.66 mm using simulations
-
+          - Contributed to R12699 PMT saturation and suppression measurements, waveform analysis, and charge reconstruction; co-first
+            author of the resulting IEEE TNS paper.
+          - Led three students in diagnostics of a 1408-channel TPC readout system and built a database for shared measurements
+            and fault tracking.
+          - Designed and implemented a 55-PMT readout system and studied charge-pattern position reconstruction using Geant4 simulations.
+          - Reported approximately 0.66 mm position resolution in the simulated configuration; not an experimentally measured
+            full-detector resolution.
+          - Designed and tested flexible PMT base prototypes, identifying noise, crosstalk, high-voltage discharge, and mechanical
+            limitations.
       - company: Georgia Institute of Technology
         position: Research Intern (Trinity PeV Neutrino Observatory)
         location: Atlanta, USA
         start_date: 2024-03
         end_date: 2024-05
         highlights:
-          - Designed and fabricated detector connection components
-          - Improved signal integrity and system stability
-
+          - Designed and fabricated detector connection components for the Trinity PeV Neutrino Observatory.
       - company: PandaX Collaboration
         position: Research Assistant
         location: Shanghai, China
         start_date: 2022-01
         end_date: 2022-03
         highlights:
-          - Designed calibration device for high-pressure xenon detector
-          - Improved mechanical strength and vacuum performance
-
+          - Designed a calibration device for a high-pressure xenon detector with Micromegas readout.
+          - Reduced device thickness while addressing mechanical strength and leak-tightness requirements.
     Publications:
-      - title: Bi-Interlayer Strategy for Modulating NiCoP-Based Heterostructure toward High-Performance Aqueous Energy Storage Devices
+      - title: Performance Study and Circuit Simulation for R12699-406-M4 Photomultiplier Tube Base
+        publisher: IEEE Transactions on Nuclear Science 73(6), 2511-2519
+        releaseDate: 2026-06
+        url: https://doi.org/10.1109/TNS.2026.3689710
+        summary: Published; co-first author with Houqi Huang.
+      - title: Measurement of Solar pp Neutrino Flux with the New PandaX-4T Data
+        publisher: arXiv:2607.02405
+        releaseDate: 2026-07
+        url: https://arxiv.org/abs/2607.02405
+        summary: PandaX Collaboration paper; author list is ordered alphabetically.
+      - title: Bi-Interlayer Strategy for Modulating NiCoP-Based Heterostructure toward High-Performance Aqueous Energy Storage
+          Devices
         publisher: Advanced Materials
-        releaseDate: 2024-05
-        summary: Co-author (third)
-
-      - title: Performance Test and Circuit Simulation for R12699-406-M4 Photomultiplier Tube Base
+        releaseDate: 2024-07
+        summary: Co-author (fourth).
+        url: https://doi.org/10.1002/adma.202401452
+    Manuscripts and Thesis:
+      - title: Light Source Position Reconstruction Using PMT Arrays in Liquid Xenon Detectors
         releaseDate: 2025
-        summary: Accepted(10.1109/TNS.2026.3689710), co-first author
-
+        summary: Undergraduate thesis.
+        url: https://orionchen314.github.io/projects/3_position_recon/
       - title: Comparative Study of Position Reconstruction Performance between Two-Inch and Three-Inch PMT Arrays
         releaseDate: 2025
-        summary: In preparation, first author
-
-    Awards:
-      - title: National First Prize (Ranked 1st Nationwide), China Undergraduate Physics Experiment Competition (CUPEC)
-        date: 2023
-
-      - title: High-Level Academic Competition Achievement Scholarship, Jilin University
-        date: 2025
-
-      - title: Student of the Year (Group Member), Shanghai Jiao Tong University
-        date: 2023
-
-      - title: 13th Place, China Undergraduate Physics Tournament
-        date: 2021
-
-      - title: Grand Prize, Northeast Division Undergraduate Physics Tournament
-        date: 2021
-
+        summary: In preparation; first author.
     Projects:
       - name: 3-Inch PMT Readout Array and Position Reconstruction
         summary: Built a 55-channel PMT readout system and developed reconstruction algorithms for large-scale xenon detectors
-
       - name: Flexible Base Circuit Design for PandaX-20T
-        summary: Designed and optimized PMT base circuits for cryogenic and high-voltage environments
-
+        summary: Designed and characterized flexible PMT base prototypes; thermal cycling reached approximately -37 C, with
+          remaining electrical and mechanical limitations.
       - name: PMT Linearity Characterization
-        summary: Developed testing system and correction methods for PMT nonlinearity across wide dynamic range
-
+        summary: Bench measurements and circuit simulation of PMT saturation and suppression; supports future correction studies.
+    Awards:
+      - title: National First Prize, China Undergraduate Physics Experiment Competition (CUPEC)
+        date: 2023
+        summary: Ranked 1st in comprehensive experimental problem D.
+      - title: High-Level Academic Competition Achievement Scholarship, Jilin University
+        date: 2025
+      - title: Student of the Year (Group Member), Shanghai Jiao Tong University
+        date: 2023
+      - title: 13th Place, China Undergraduate Physics Tournament
+        date: 2021
+      - title: Grand Prize, Northeast Division Undergraduate Physics Tournament
+        date: 2021
+    Patents:
+      - title: Small Wind Tunnel Device Used in Laboratory
+        summary: Chinese patent CN215414302U.
+      - title: Method of Measuring Wind Speed Using a Constant Flow Thermal Anemometer
+        summary: Chinese patent CN113466487B.
     Skills:
       - name: Programming & Data
         keywords: Python, C++, MATLAB, ROOT, Geant4, Git, LaTeX
-
       - name: Experimental
         keywords: PMT characterization, detector readout, DAQ systems, circuit design, vacuum systems
-
       - name: Computation
         keywords: Monte Carlo simulation, finite element analysis, machine learning for reconstruction
-
     Languages:
       - name: Chinese
         summary: Native
-
       - name: English
         summary: Fluent
-
     Volunteer:
       - company: CUPT Community, Jilin University
         position: Founder & Chairman
@@ -132,7 +124,6 @@ cv:
         highlights:
           - Founded physics competition training community
           - Mentored students in experimental design and data analysis
-
       - company: JLUPT
         position: Chairman & Referee
         location: Changchun, China

@@ -25,7 +25,3 @@ This project focuses on organizing the **first cycling race at Jilin University*
 
 - Successfully hosted the first large-scale cycling event on campus
 - Built experience in managing complex, real-time systems involving people and logistics
-
-**Key Insight**
-
-Organizing a live event requires similar thinking to engineering systems: balancing constraints, ensuring reliability, and responding to dynamic conditions in real time.

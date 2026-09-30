@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-This page lists my research publications, selected manuscripts, and collaboration papers, with a focus on particle physics, dark matter detection, liquid xenon time projection chambers, PMT performance studies, and detector instrumentation.
+Journal articles, collaboration preprints, and my undergraduate thesis. Individual contributions are described on the [research project pages]({{ '/projects/' | relative_url }}).
 
 {% include bib_search.liquid %}
 

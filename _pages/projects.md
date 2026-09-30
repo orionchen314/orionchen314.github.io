@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Detector research, instrumentation, and community activities.
 nav: true
 nav_order: 3
-display_categories: [research, engineering, outreach]
+display_categories: [research, outreach]
 horizontal: false
 ---
 

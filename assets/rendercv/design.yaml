@@ -5,3 +5,11 @@ design:
     size: a4
     show_footer: false
     show_top_note: false
+  sections:
+    allow_page_break: false
+  templates:
+    education_entry:
+      degree_column: null
+      main_column: "**INSTITUTION**\nDEGREE, AREA\nSUMMARY\nHIGHLIGHTS"
+    normal_entry:
+      date_and_location_column: "LOCATION\nDATE\nYEAR_ONLY"

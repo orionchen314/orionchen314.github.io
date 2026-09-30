@@ -1,9 +1,9 @@
 ---
 layout: page
-title: PMT Linearity and Saturation Correction Study
-description: Investigated PMT saturation mechanisms and improved linearity using optimized base circuits and desaturation capacitors, extending dynamic range significantly.
+title: PMT Saturation and Suppression Characterization
+description: Bench measurements and circuit simulation of nonlinear PMT-base response for PandaX-xT.
 img: /assets/img/projects/pmt_saturation.jpg
-importance: 3
+importance: 1
 category: research
 ---
 
@@ -12,6 +12,14 @@ category: research
 This project studies the saturation and suppression behavior of the Hamamatsu R12699-406-M4 photomultiplier tube (PMT) base developed for next-generation liquid-xenon rare-event experiments. The work combines dedicated bench measurements with circuit-level simulation to understand how the PMT voltage-divider base responds to large scintillation-like signals and closely spaced consecutive pulses.
 
 The study is motivated by the broad dynamic-range requirement of future PandaX-xT physics searches, which need to preserve single-photoelectron sensitivity while also covering MeV-scale signals relevant to neutrinoless double-beta decay of $$^{136}\mathrm{Xe}$$.
+
+## My Contributions
+
+- Participated in the R12699 PMT-base performance study for PandaX-xT detector R&D.
+- Contributed to waveform analysis for PMT saturation and suppression measurements.
+- Supported charge reconstruction using monitor PMT channels and calibrated PMT response curves.
+- Helped compare different base configurations and evaluate their dynamic-range performance.
+- Contributed to the interpretation of saturation/suppression behavior using circuit-level modeling.
 
 ## Physics and Detector Context
 
@@ -73,31 +81,15 @@ The simulation reproduces the key experimental features:
 
 The agreement between bench measurements and circuit simulation provides a practical tool for optimizing base designs and for building future saturation/suppression correction models.
 
-## My Contributions
+## Publication
 
-- Participated in the R12699 PMT-base performance study for PandaX-xT detector R&D.
-- Contributed to waveform analysis for PMT saturation and suppression measurements.
-- Supported charge reconstruction using monitor PMT channels and calibrated PMT response curves.
-- Helped compare different base configurations and evaluate their dynamic-range performance.
-- Contributed to the interpretation of saturation/suppression behavior using circuit-level modeling.
+**Performance Study and Circuit Simulation for R12699-406-M4 Photomultiplier Tube Base**  
+Peiyuan Chen, Houqi Huang, and collaborators.  
+_IEEE Transactions on Nuclear Science_ **73**(6), 2511-2519 (2026). **Co-first author** with Houqi Huang.
 
-## Representative Outputs
+[Published article](https://doi.org/10.1109/TNS.2026.3689710) · [Preprint PDF](https://arxiv.org/pdf/2601.12364)
 
-This project can be strengthened visually by adding the following figures from the analysis workflow:
-
-- measured saturation curves for BASE-1, BASE-2, and BASE-3;
-- example saturated waveform compared with reconstructed input waveform;
-- suppression waveform for two closely spaced light pulses;
-- recovery curve of the second pulse as a function of pulse separation;
-- LTSpice circuit model or simulated-versus-measured response comparison.
-
-## Connection to Publication
-
-This project is based on the study reported in:
-
-**Performance Test and Circuit Simulation for R12699-406-M4 Photomultiplier Tube Base**  
-Houqi Huang, Peiyuan Chen, Ke Han, Yang Liu, Guanbo Wang, Shaobo Wang, Weihao Wu, Binbin Yan, Peihua Ye, Jiaxu Zhou, Zhizhen Zhou.  
-_arXiv:2601.12364_.
+The preprint uses the earlier title, _Performance Test and Circuit Simulation for R12699-406-M4 Photomultiplier Tube Base_.
 
 ## Status and Next Steps
 

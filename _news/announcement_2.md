@@ -10,7 +10,7 @@ I participated in the 9th China Undergraduate Physics Experiment Competition (CU
 
 In the competition, participants were required to complete experimental tasks under strict time constraints, demonstrating strong capabilities in experimental design, data analysis, and teamwork.
 
-In the teaching contest, I (Peiyuan Chen) achieved **First Prize (Ranked 1st overall)** in the comprehensive experimental problem D.
+In the teaching contest, I (Peiyuan Chen) achieved **First Prize (Ranked 1st in comprehensive experimental problem D)** in the comprehensive experimental problem D.
 
 This experience significantly strengthened my practical skills in experimental physics and deepened my understanding of experimental methodology.
 

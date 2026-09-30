@@ -1,4 +1,11 @@
 ---
+layout: page
+title: PMT Readout Platform for a PandaX-inspired Array
+description: Designed and implemented a multi-channel PMT readout system for a 55-PMT array, including waveform acquisition, baseline correction, and charge extraction.
+img: /assets/img/projects/pmt_readout.jpg
+importance: 4
+category: research
+---
 
 ## Overview
 
@@ -40,14 +47,6 @@ Dual-phase liquid-xenon time projection chambers rely on PMT arrays to measure p
 
 The current implementation provides a complete prototype chain for processing PMT-array waveform data. The most important intermediate products are baseline-corrected waveforms, channel-wise integrated charge distributions, and event-level light maps across the PMT plane.
 
-Future figures that would strengthen this page:
-
-- an example raw waveform and baseline-corrected waveform;
-- a per-channel charge map for the 55-PMT array;
-- a reconstructed-versus-true source-position comparison;
-- charge-resolution or position-resolution curves;
-- a schematic of the PMT layout used in the reconstruction.
-
 ## My Contributions
 
 - Designed the waveform-processing workflow for multi-channel PMT data.
@@ -58,11 +57,4 @@ Future figures that would strengthen this page:
 
 ## Status and Next Steps
 
-This project currently serves as a prototype platform for PMT-array readout studies and reconstruction-method development. Planned improvements include adding more realistic electronics response models, incorporating PMT gain calibration constants, benchmarking reconstruction performance with simulated calibration sources, and integrating publication-quality diagnostic plots into the project page.
-layout: page
-title: PMT Readout Platform for a PandaX-inspired Array
-description: Designed and implemented a multi-channel PMT readout system for a 55-PMT array, including waveform acquisition, baseline correction, and charge extraction.
-img: /assets/img/projects/pmt_readout.jpg
-importance: 1
-category: research
----
+This project currently serves as a prototype platform for PMT-array readout studies and reconstruction-method development. Planned improvements include adding more realistic electronics response models, incorporating PMT gain calibration constants, benchmarking reconstruction performance with simulated calibration sources, and expanding diagnostic plots.

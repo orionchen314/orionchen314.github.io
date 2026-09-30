@@ -3,19 +3,23 @@ layout: page
 title: Flexible PMT Base Design for Next-generation LXe Detectors
 description: Designed a compact flexible PMT base integrating voltage division, signal readout, and mechanical adaptability for dense PMT arrays in future liquid xenon experiments.
 img: /assets/img/projects/flexible_base.jpg
-importance: 6
-category: engineering
+importance: 3
+category: research
 ---
 
-This project develops and validates a **flex-rigid PMT base (FRP)** for LXe detectors, integrating voltage division and long-distance signal readout into a single structure to replace traditional cables and hub boards.
+This project develops and characterizes a **flex-rigid PMT base (FRP)** for LXe detectors, integrating voltage division and long-distance signal readout into a single structure to replace traditional cables and hub boards.
 
-**Motivation**
+## My Role and Project Status
+
+I worked on the design and testing of flexible PMT base circuits. This page summarizes prototype-level mechanical, thermal, and electrical characterization, including issues that guide the next design iteration.
+
+## Motivation
 
 - Future LXe detectors require increasingly dense photosensor layouts with strict space and radiopurity constraints.
 - Conventional rigid PCB bases can introduce mechanical interference, routing complexity, and assembly limitations in compact PMT arrays.
 - A flexible base design provides a route toward improved mechanical compatibility while preserving stable voltage division and signal readout.
 
-**System Architecture**
+## System Architecture
 
 - 3×3 PMT module (9 HV channels, 36 signal channels).
 - Flex–rigid structure:
@@ -24,17 +28,17 @@ This project develops and validates a **flex-rigid PMT base (FRP)** for LXe dete
 - Direct connection to flange via **Micro-D connectors** (no external cable bundle).
 - Cut-out regions introduced to reduce material and background.
 
-**Design Evolution**
+## Design Evolution
 
 - V1–V2: FR4 rigid boards + cable/hub → wiring complexity, failure risk.
 - V3: PI rigid base → lower background, validated fabrication.
 - V4: Flex–rigid PCB → integrated base + signal routing, cable-free design.
 - V5 (ongoing): optimized layout and stack-up based on test feedback.
 
-**Mechanical & Thermal Validation**
+## Mechanical & Thermal Validation
 
 - Repeated bending test: >100 cycles with stable electrical continuity.
-- Thermal cycling: down to ~−37°C and back to room temperature.
+- Thermal cycling: down to approximately -37°C and back to room temperature. This test does not establish reliability at liquid xenon operating temperature.
 - Observed issues:
   - Partial delamination after thermal cycles
   - Local PI swelling during soldering
@@ -52,7 +56,9 @@ This project develops and validates a **flex-rigid PMT base (FRP)** for LXe dete
     </div>
 </div>
 
-**Electrical Performance**
+## Electrical Performance
+
+The values below summarize prototype bench measurements. They should not be interpreted as detector-wide performance or qualification results.
 
 - **High-voltage stability**:
   - Tested at 1000–1200 V for 3 hours
@@ -68,14 +74,14 @@ This project develops and validates a **flex-rigid PMT base (FRP)** for LXe dete
 - **Waveform quality**:
   - Noticeable distortion observed → identified as a critical issue for next iteration
 
-**Key Engineering Insights**
+## Key Engineering Insights
 
-- Signal integrity is dominated by **routing geometry (spacing, layer separation)**.
+- The measurements suggest that **routing geometry (spacing, layer separation)** is an important contributor to signal integrity.
 - Shielding layers are essential for noise suppression.
 - HV and signal lines must be strictly separated across layers.
 - Flex–rigid integration introduces new failure modes (delamination, mechanical stress coupling).
 
-**Optimization Strategy (Next Iteration)**
+## Optimization Strategy (Next Iteration)
 
 - Introduce multi-layer stack-up:
   - Signal / Ground / HV / Ground / Signal
@@ -84,8 +90,10 @@ This project develops and validates a **flex-rigid PMT base (FRP)** for LXe dete
 - Improve impedance matching and routing continuity.
 - Evaluate high-frequency materials (e.g., LCP) for reduced attenuation.
 - Strengthen mechanical robustness (thickness, bonding process).
-  **Outcome**
-- Demonstrated feasibility of a **cable-free PMT readout architecture**.
+
+## Outcome
+
+- Built and characterized a prototype **integrated PMT base and readout architecture**. High-voltage discharge, crosstalk, waveform distortion, and delamination remain limitations before detector deployment.
 - Established a unified framework linking:
   - mechanical design
   - electrical performance

@@ -13,7 +13,7 @@ This project summarizes a structured workshop I designed and delivered for the u
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/audience.jpeg" title="Audience Q&A session" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/audience.jpg" title="Audience Q&A session" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,7 +29,7 @@ This project summarizes a structured workshop I designed and delivered for the u
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/demo.jpeg" title="Live demonstration with participant" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/demo.jpg" title="Live demonstration with participant" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -40,12 +40,6 @@ This project summarizes a structured workshop I designed and delivered for the u
 
 - Protection, Optimal Loading, Ice, Compression, Elevation.
 - Time-phased guidance (0–48h acute care; gradual loading and functional recovery thereafter).
-
-**Practical Outcomes**
-
-- Enabled participants to **self-screen** common knee issues during training.
-- Standardized **on-site response** for acute symptoms.
-- Improved **communication with clinicians** via clearer symptom description.
 
 **Role & Impact**
 

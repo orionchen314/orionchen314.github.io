@@ -28,20 +28,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student and research assistant in the <a href="https://pandax.sjtu.edu.cn/" target="_blank">PandaX Collaboration</a>, working at the intersection of experimental particle physics, detector instrumentation, and data analysis.
+I study physics at Jilin University and work as a research assistant with the <a href="https://pandax.sjtu.edu.cn/" target="_blank" rel="noopener">PandaX Collaboration</a> at Shanghai Jiao Tong University. My research focuses on photomultiplier-tube (PMT) instrumentation and readout systems for liquid xenon detectors.
 
-My current work focuses on liquid xenon time projection chamber (LXe TPC) readout systems, especially photomultiplier tube (PMT) arrays, waveform processing, and detector response characterization. I work on PMT waveform analysis pipelines that include baseline estimation, charge integration, pulse-shape studies, gain calibration, linearity evaluation, and saturation behavior modeling.
+I combine bench measurements, circuit studies, and C++/ROOT and Python analysis to investigate detector response. I am interested in how hardware design, calibration, and reconstruction affect the sensitivity of rare-event searches.
 
-I use C++/ROOT and Python to connect detector signals with quantitative performance studies. My projects involve multi-channel waveform processing, PMT base circuit evaluation, signal reconstruction from charge distributions, and validation of detector readout behavior under realistic operating constraints.
+[Download CV]({{ '/assets/pdf/cv.pdf' | relative_url }}) · [Email](mailto:orionchen314@gmail.com) · [Research projects]({{ '/projects/' | relative_url }})
 
-I am particularly interested in how hardware design, calibration strategy, and reconstruction algorithms interact in rare-event searches. Recent work includes PMT readout platform development, saturation correction studies, and position reconstruction methods for PMT-array detector configurations.
+## Selected Research
+
+- **[PMT saturation and suppression]({{ '/projects/2_pmt_sat_sup/' | relative_url }}):** Contributed to waveform analysis, charge reconstruction, and circuit-model interpretation for the R12699 base study. Co-first author of the resulting IEEE Transactions on Nuclear Science paper.
+- **[1408-channel readout diagnostics]({{ '/projects/tpc_readout_diagnostics/' | relative_url }}):** Led three students in channel-level diagnostics and built a database for shared measurements and fault tracking.
+- **[Flexible PMT base development]({{ '/projects/new_base_design/' | relative_url }}):** Worked on an integrated base and signal-routing prototype, characterizing noise, crosstalk, high-voltage behavior, and mechanical limitations.
 
 **Research Interests**
 
-- Dark matter direct detection and rare-event searches
-- Liquid xenon detectors and LXe TPC readout systems
-- PMT instrumentation, base circuits, and multi-channel readout
-- Waveform analysis, charge reconstruction, and signal processing
-- Detector response modeling, calibration, and performance validation
-
-I am always glad to discuss detector instrumentation, PMT readout, waveform analysis, and data-driven calibration methods. For more details, please see my publications, projects, LinkedIn profile, or GitHub repositories.
+- Dark matter detection and rare-event searches
+- Liquid xenon detectors and PMT instrumentation
+- Detector calibration, waveform analysis, and position reconstruction
