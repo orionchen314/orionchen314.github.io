@@ -18,14 +18,14 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "Detector research, instrumentation, and community activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Research experience, education, publications, and service.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -37,15 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hobbies/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
+        },{id: "dropdown-research-notes",
+              title: "Research Notes",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -72,25 +65,23 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-mega-trophy-achieved-first-prize-in-china-undergraduate-physics-experiment-competition",
-          title: ':mega: :trophy: Achieved First Prize in China Undergraduate Physics Experiment Competition',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/tdli_check/";
             },},{id: "news-joined-pandax-4t-as-a-research-assistant",
           title: 'Joined PandaX-4T as a Research Assistant.',
           description: "",
           section: "News",},{id: "news-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
           title: 'Finalized PMT waveform analysis and charge reconstruction framework.',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
+          section: "News",},{id: "news-our-r12699-pmt-base-study-was-published-in-ieee-transactions-on-nuclear-science-i-am-a-co-first-author-with-houqi-huang",
+          title: 'Our R12699 PMT-base study was published in IEEE Transactions on Nuclear Science. I...',
           description: "",
+          section: "News",},{id: "projects-pmt-readout-platform-for-a-pandax-inspired-array",
+          title: 'PMT Readout Platform for a PandaX-inspired Array',
+          description: "Designed and implemented a multi-channel PMT readout system for a 55-PMT array, including waveform acquisition, baseline correction, and charge extraction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_pmy_readout_system/";
-            },},{id: "projects-pmt-linearity-and-saturation-correction-study",
-          title: 'PMT Linearity and Saturation Correction Study',
-          description: "Investigated PMT saturation mechanisms and improved linearity using optimized base circuits and desaturation capacitors, extending dynamic range significantly.",
+            },},{id: "projects-pmt-saturation-and-suppression-characterization",
+          title: 'PMT Saturation and Suppression Characterization',
+          description: "Bench measurements and circuit simulation of nonlinear PMT-base response for PandaX-xT.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_pmt_sat_sup/";
             },},{id: "projects-light-source-position-reconstruction-with-pmt-arrays",
@@ -168,6 +159,11 @@ ninja.data = [{
           description: "Organized and led a university-wide physics competition, designing evaluation systems and coordinating judging processes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/physics_competition/";
+            },},{id: "projects-full-chain-diagnostics-of-a-1408-channel-tpc-readout-system",
+          title: 'Full-Chain Diagnostics of a 1408-Channel TPC Readout System',
+          description: "Led three students in channel-level diagnostics and built a database for shared measurements and fault tracking.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tpc_readout_diagnostics/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
@@ -190,7 +186,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%4F%72%69%6F%6E%63%68%65%6E%33%31%34@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6F%72%69%6F%6E%63%68%65%6E%33%31%34@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-inspire',
