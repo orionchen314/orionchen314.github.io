@@ -189,7 +189,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/cv.pdf", "_blank");
+          window.open("/assets/pdf/cv_jakes_resume_emphasis_2026.pdf", "_blank");
         },
       },{
         id: 'social-email',
