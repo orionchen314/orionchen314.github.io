@@ -74,8 +74,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-r12699-pmt-base-study-was-published-in-ieee-transactions-on-nuclear-science-i-am-a-co-first-author-with-houqi-huang",
           title: 'Our R12699 PMT-base study was published in IEEE Transactions on Nuclear Science. I...',
           description: "",
-          section: "News",},{id: "projects-pmt-readout-platform-for-a-pandax-inspired-array",
-          title: 'PMT Readout Platform for a PandaX-inspired Array',
+          section: "News",},{id: "projects-55-channel-r11410-pmt-readout-array",
+          title: '55-Channel R11410 PMT Readout Array',
           description: "Designed and implemented a multi-channel PMT readout system for a 55-PMT array, including waveform acquisition, baseline correction, and charge extraction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_pmy_readout_system/";
@@ -104,9 +104,9 @@ ninja.data = [{
           description: "Organized the first campus-wide cycling race, including planning, safety management, and on-site execution.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cycling_race/";
-            },},{id: "projects-flexible-pmt-base-design-for-next-generation-lxe-detectors",
-          title: 'Flexible PMT Base Design for Next-generation LXe Detectors',
-          description: "Designed a compact flexible PMT base integrating voltage division, signal readout, and mechanical adaptability for dense PMT arrays in future liquid xenon experiments.",
+            },},{id: "projects-rigid-flex-pmt-base-evaluation",
+          title: 'Rigid-Flex PMT Base Evaluation',
+          description: "Thermal and electrical characterization of rigid-flex PMT bases, informing signal-routing improvements.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/new_base_design/";
             },},{id: "projects-project-1",
@@ -159,6 +159,16 @@ ninja.data = [{
           description: "Organized and led a university-wide physics competition, designing evaluation systems and coordinating judging processes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/physics_competition/";
+            },},{id: "projects-pmt-signal-acquisition-and-characterization",
+          title: 'PMT Signal Acquisition and Characterization',
+          description: "A 192-channel test platform linking waveform acquisition, calibration, and batch PMT evaluation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pmt_acquisition_characterization/";
+            },},{id: "projects-pmt-large-signal-response-and-waveform-correction",
+          title: 'PMT Large-Signal Response and Waveform Correction',
+          description: "Measured PMT response, coupled transport and circuit modeling, and correction of detector waveforms.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pmt_waveform_correction/";
             },},{id: "projects-full-chain-diagnostics-of-a-1408-channel-tpc-readout-system",
           title: 'Full-Chain Diagnostics of a 1408-Channel TPC Readout System',
           description: "Led three students in channel-level diagnostics and built a database for shared measurements and fault tracking.",
