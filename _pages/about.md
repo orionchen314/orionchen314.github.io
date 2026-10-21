@@ -32,7 +32,7 @@ I am a research assistant with the <a href="https://pandax.sjtu.edu.cn/" target=
 
 My work connects detector hardware with the signals used in rare-event searches. I develop PMT acquisition systems, characterize photosensor response, and use bench measurements, circuit simulation, and waveform analysis to study calibration and reconstruction in liquid-xenon detectors. My research spans the full chain from high-voltage and readout integration to detector-data correction and PMT-array position reconstruction.
 
-[Download CV]({{ '/assets/pdf/cv.pdf' | relative_url }}) · [Email](mailto:orionchen314@gmail.com) · [Research projects]({{ '/projects/' | relative_url }})
+[Download CV]({{ '/assets/pdf/cv_jakes_resume_emphasis_2026.pdf' | relative_url }}) · [Email](mailto:orionchen314@gmail.com) · [Research projects]({{ '/projects/' | relative_url }})
 
 ## Selected Research
 
