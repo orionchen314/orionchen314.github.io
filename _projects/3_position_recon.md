@@ -19,13 +19,12 @@ My work uses PMT charge distributions to study source-position reconstruction, i
 - Used Geant4 simulations to study reconstruction performance.
 - Connected channel-level charge extraction with array-level position estimates.
 
-## Simulation Result and Scope
+## Array Performance and Scope
 
-The simulation study reported a position resolution of approximately **0.66 mm**. This value describes the simulated configuration studied; it is not an experimentally measured resolution of a full liquid xenon TPC. Interpretation depends on the geometry, light yield, source locations, and residual definition used in the study.
+The 55-channel R11410 array achieved an overall spatial resolution of approximately **0.66 mm in array performance tests**. My responsibilities covered hardware development, DAQ, calibration, Geant4 optical simulation, and reconstruction analysis. I compared center-of-gravity, template-matching, light-response-function, and machine-learning methods. This array result is not a full liquid-xenon TPC resolution.
 
 ## Related Work
 
-- **Undergraduate thesis (2025):** Light Source Position Reconstruction Using PMT Arrays in Liquid Xenon Detectors.
-- **Manuscript in preparation:** Comparative Study of Position Reconstruction Performance between Two-Inch and Three-Inch PMT Arrays.
+- **B.S. thesis (2026):** Development and Testing of R12699 and R11410 PMT Arrays: A Comparative Study of Position-Reconstruction Algorithms. Outstanding Undergraduate Thesis Award, Jilin University.
 - [55-PMT readout platform]({{ '/projects/1_pmy_readout_system/' | relative_url }})
 - [ROOT waveform analysis framework]({{ '/projects/4_root_waveform_analysis_framework/' | relative_url }})

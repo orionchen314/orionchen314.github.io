@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Undergraduate Research Assistant, PandaX Collaboration
+subtitle: Research Assistant, PandaX Collaboration · Detector Instrumentation
 
 profile:
   align: right
@@ -28,20 +28,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I study physics at Jilin University and work as a research assistant with the <a href="https://pandax.sjtu.edu.cn/" target="_blank" rel="noopener">PandaX Collaboration</a> at Shanghai Jiao Tong University. My research focuses on photomultiplier-tube (PMT) instrumentation and readout systems for liquid xenon detectors.
+I am a research assistant with the <a href="https://pandax.sjtu.edu.cn/" target="_blank" rel="noopener">PandaX Collaboration</a> at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University. I received my B.S. in Physics from Jilin University in June 2026 and was a visiting undergraduate student at Georgia Tech in 2024.
 
-I combine bench measurements, circuit studies, and C++/ROOT and Python analysis to investigate detector response. I am interested in how hardware design, calibration, and reconstruction affect the sensitivity of rare-event searches.
+My work connects detector hardware with the signals used in rare-event searches. I develop PMT acquisition systems, characterize photosensor response, and use bench measurements, circuit simulation, and waveform analysis to study calibration and reconstruction in liquid-xenon detectors. My research spans the full chain from high-voltage and readout integration to detector-data correction and PMT-array position reconstruction.
 
 [Download CV]({{ '/assets/pdf/cv.pdf' | relative_url }}) · [Email](mailto:orionchen314@gmail.com) · [Research projects]({{ '/projects/' | relative_url }})
 
 ## Selected Research
 
-- **[PMT saturation and suppression]({{ '/projects/2_pmt_sat_sup/' | relative_url }}):** Contributed to waveform analysis, charge reconstruction, and circuit-model interpretation for the R12699 base study. Co-first author of the resulting IEEE Transactions on Nuclear Science paper.
-- **[1408-channel readout diagnostics]({{ '/projects/tpc_readout_diagnostics/' | relative_url }}):** Led three students in channel-level diagnostics and built a database for shared measurements and fault tracking.
-- **[Flexible PMT base development]({{ '/projects/new_base_design/' | relative_url }}):** Worked on an integrated base and signal-routing prototype, characterizing noise, crosstalk, high-voltage behavior, and mechanical limitations.
+- **[PMT acquisition and characterization]({{ '/projects/pmt_acquisition_characterization/' | relative_url }}):** Led development and maintenance of a 192-channel test platform with 500 MS/s digitization and over 1,000 MB/s readout bandwidth. Characterized more than 160 R11410 and 500 R12699 PMTs.
+- **[Large-signal response and waveform correction]({{ '/projects/pmt_waveform_correction/' | relative_url }}):** Combine measured response curves, base-circuit simulation, and a custom 2.5D diagnostic electron-transport model. Under the same event selection, waveform correction reduced the difference between multi-site and single-site reconstructed energy peak positions by 85%.
+- **[PMT arrays and position reconstruction]({{ '/projects/3_position_recon/' | relative_url }}):** Led hardware, DAQ, calibration, Geant4 optical simulation, and reconstruction for a 55-channel R11410 array; achieved approximately 0.66 mm overall spatial resolution in array performance tests.
+- **[R12699 base performance]({{ '/projects/2_pmt_sat_sup/' | relative_url }}):** Co-first author of the resulting _IEEE Transactions on Nuclear Science_ paper on PMT-base performance and circuit simulation.
 
-**Research Interests**
+## Research Interests
 
 - Dark matter detection and rare-event searches
-- Liquid xenon detectors and PMT instrumentation
-- Detector calibration, waveform analysis, and position reconstruction
+- Liquid-xenon detectors, PMT instrumentation, and readout electronics
+- Detector calibration, nonlinear waveform response, and position reconstruction

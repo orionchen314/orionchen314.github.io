@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Flexible PMT Base Design for Next-generation LXe Detectors
-description: Designed a compact flexible PMT base integrating voltage division, signal readout, and mechanical adaptability for dense PMT arrays in future liquid xenon experiments.
+title: Rigid-Flex PMT Base Evaluation
+description: Thermal and electrical characterization of rigid-flex PMT bases, informing signal-routing improvements.
 img: /assets/img/projects/flexible_base.jpg
 importance: 3
 category: research
@@ -11,7 +11,7 @@ This project develops and characterizes a **flex-rigid PMT base (FRP)** for LXe 
 
 ## My Role and Project Status
 
-I worked on the design and testing of flexible PMT base circuits. This page summarizes prototype-level mechanical, thermal, and electrical characterization, including issues that guide the next design iteration.
+My primary responsibility was testing and performance evaluation of rigid-flex PMT base circuits, with measurements informing layout improvements. This page summarizes prototype-level mechanical, thermal, and electrical characterization, including issues that guide the next design iteration.
 
 ## Motivation
 
@@ -56,7 +56,20 @@ I worked on the design and testing of flexible PMT base circuits. This page summ
     </div>
 </div>
 
-## Electrical Performance
+## Results from Subsequent Layout Improvements
+
+Thermal-stability, connectivity, noise, attenuation, and crosstalk measurements informed changes to signal-trace spacing and ground isolation. Relative to the earlier baseline:
+
+| Metric            | Result                          |
+| ----------------- | ------------------------------- |
+| Noise             | About 1/5 of its original level |
+| Attenuation       | About 1/3 of its original level |
+| Average crosstalk | From 15–20% to about 1%         |
+| Maximum crosstalk | From 28% to below 3%            |
+
+These values summarize prototype comparisons; they do not establish full-detector qualification.
+
+## Earlier Prototype Electrical Performance
 
 The values below summarize prototype bench measurements. They should not be interpreted as detector-wide performance or qualification results.
 
